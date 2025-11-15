@@ -1,0 +1,9 @@
+{
+  "name": "member-points",
+  "version": "1.0.0",
+  "description": "会员积分展示系统",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build required'"
+  }
+}

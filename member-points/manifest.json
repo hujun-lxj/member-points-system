@@ -1,0 +1,8 @@
+{
+  "name": "会员积分系统",
+  "short_name": "积分助手",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1890ff"
+}
